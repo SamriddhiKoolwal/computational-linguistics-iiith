@@ -1,0 +1,6 @@
+Experiment-1 important points
+1.reformations of setences
+2.correctness button
+3.Reform the sentence
+4.words should be placed in same position aas they appear when click on reform sentence button
+4. Correct answers button
