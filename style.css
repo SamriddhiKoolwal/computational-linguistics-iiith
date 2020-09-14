@@ -568,8 +568,49 @@ margin-top:120px;
 	} */
 
 }
+button{
+  border-radius: 5px;
+  margin-top: 10px;
+  display: inline;
+  margin-left:30px;
+}
+#dem2{
+  margin-left:300px;
+  visibility: hidden;
+}
+#dem3{
+  margin-left:300px;
+  visibility: hidden;
+}
+#dem4{
+  text-align: center;
+}
+#dem5{
+  display: inline;
+    margin-left:400px;
+      margin-top: 10px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
 
+visibility: hidden;
+}
+#demF{
+  display: inline;
+    margin-left:400px;
+      margin-top: 10px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
+visibility: hidden;
+}
+#dem6{
+  border-radius: 5px;
+  margin-top: 10px;
+  display: inline;
+  margin-left:500px;
 
+}
 
 @media only screen and (min-width: 401px) and (max-width: 523px) {
 
